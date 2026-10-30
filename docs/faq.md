@@ -1,8 +1,25 @@
 # Frequently asked questions
 
+## Who is my supervisor?
+
+Richèl.
+
+???- "How does he look like?"
+
+    Here is how he loooks like
+    
+    ![Richèl. Photo by Mikael Wallerstedt](richel.jpg)
+
+???- "How to pronounce his name??"
+
+    Language |Pronunciation
+    ---------|-------------
+    English  |'Rea-shell', rhymes on 'sea shell'
+    Swedish  |'Ri-kjell', `rikedom och kjell och company`
+
 ## What should I bring?
 
-- a laptop
+- a laptop with an adapter
 - (optional) food
 
 ## Where in Uppsala is this?
@@ -21,12 +38,18 @@ Yes.
 
 ## What happens when I am early?
 
-You will make a great first impression and the PRAO will end earlier:
-that is one of the features of working at NBIS: we ourselves can determine
-when we work.
+- You will make a great first impression
+- It will be noted in the
+  [reflection from the supervisor](reflection_from_supervisor.md)
+- The PRAO will end earlier:
+  that is one of the features of working at NBIS: we ourselves can determine
+  when we work.
 
 ## What happens when I am late?
 
-You will make a bad first impression and the PRAO will end later:
-that is one of the features of working at NBIS: we ourselves can determine
-when we work.
+- You will make a bad first impression
+- It will be noted in the
+  [reflection from the supervisor](reflection_from_supervisor.md)
+- The PRAO will end later:
+  that is one of the features of working at NBIS: we ourselves can determine
+  when we work.

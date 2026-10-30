@@ -3,11 +3,13 @@
 The office has room number D5:514c and can be found
 [here (in Mazemap)](https://link.mazemap.com/1o82OwUi).
 
-To reach my office, enter BMC at entrance C11:
+To reach my office, enter BMC at entrance C11, which has
+a big 'SciLifeLab' sign above it:
 
 ![BMC entrance C11](images/c11_view.png)
 
-BMC has another entrance (see below). Use C11.
+BMC has another entrance (see below).
+Use C11, the entrance which has a big 'SciLifeLab' sign above it.
 
 ![BMC other entrance](images/busstop_view_annotated.png)
 
