@@ -1,6 +1,6 @@
 # PRAO of Melker
 
-- When: Friday November 6th 2026 9:00-16:00
+- When: Monday November 9th and Tuesday November 10th 2026 13:00-16:00
   (see [schedule](schedule.md))
 - Where in Uppsala: Biomedical Center, Husargatan:
   see [location](location.md) how to get there
