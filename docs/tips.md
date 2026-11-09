@@ -53,3 +53,7 @@ Tips from former students, with spelling errors corrected.
 
     Read thoroughly and listen carefully to all information given.
     Do your best and have fun!
+
+!!! quote "[Ada](https://github.com/richelbilderbeek/prao_ada_20261106)"
+
+    Do not be afraid to ask questions and read the instructions carefully!
